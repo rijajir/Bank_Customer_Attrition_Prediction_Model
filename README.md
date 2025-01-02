@@ -39,14 +39,14 @@ From 2026 rows of test data, the FN number seems lower when it has fewer of the 
 Features driving attrition:
 * Higher Impact on attrition probability
   * `Total transaction amount`
-  * `Total amount and credit change Q4-Q1`
-  * `Total number of products used by customers`
   * `Total revolving balance`
+  * `Total number of products used by customers`
+  * `Total amount and credit change Q4-Q1`
 * Smaller Impact on attrition probability
   * `Customer age`
   * `Credit limit`
-  * `Customer contacts count on 12 months`
   * `Months of the customer is Inactive in a year`
+  * `Customer contacts count on 12 months`
  
     These factors individually had a smaller impact than the financial parameters mentioned above, but they still contribute to attrition predictions. Addressing customer concerns proactively, ensuring ease of use, and providing relevant information can potentially reduce attrition risks.
 
@@ -60,6 +60,6 @@ Features driving attrition:
 
 **By implementing these recommendations, the bank can make data-driven decisions to improve customer retention and prevent potential losses due to attrition.**
 
-** *For more visibility on the Model Interpretation Section please visit this code here* [https://colab.research.google.com/drive/1QDyAaLPJj9GZgGuB2OYzu8L5_z6FGMGS?usp=sharing](https://colab.research.google.com/drive/1QDyAaLPJj9GZgGuB2OYzu8L5_z6FGMGS?usp=sharing)
+** *For better visibility on the Model Interpretation Section, please visit this code here* [https://colab.research.google.com/drive/1QDyAaLPJj9GZgGuB2OYzu8L5_z6FGMGS?usp=sharing](https://colab.research.google.com/drive/1QDyAaLPJj9GZgGuB2OYzu8L5_z6FGMGS?usp=sharing)
 
 *** *Please also visit the deck here* [https://github.com/rijajir/Bank_Customer_Attrition_Prediction_Model/blob/main/deck/Bank_Customer_Attrition_Prediction_Model_Deck.pdf](https://github.com/rijajir/Bank_Customer_Attrition_Prediction_Model/blob/main/deck/Bank_Customer_Attrition_Prediction_Model_Deck.pdf)
